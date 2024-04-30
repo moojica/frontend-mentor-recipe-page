@@ -1,0 +1,12 @@
+:root {
+  --heading-text: 'Young Serif', sans-serif;
+  --text: 'Outfit', sans-serif;
+}
+
+.heading {
+  font-family: var(--heading-text);
+}
+
+.text {
+  font-family: var(--text);
+}
