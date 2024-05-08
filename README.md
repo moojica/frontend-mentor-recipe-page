@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/social-links-profile-screenshot.png)
+![](./assets/images/recipe-page-screenshot.png)
 
 ### Links
 
